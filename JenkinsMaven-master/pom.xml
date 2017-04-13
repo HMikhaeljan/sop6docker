@@ -85,7 +85,7 @@
                     <configuration>
                         <type>runtime</type>
                         <properties>
-                            <cargo.hostname>${hostname}</cargo.hostname>
+                            <cargo.hostname>127.0.0.1:4848</cargo.hostname>
                             <cargo.remote.username>admin</cargo.remote.username>
                             <cargo.remote.password>admin</cargo.remote.password>
                             <cargo.remote.port>8087</cargo.remote.port>
